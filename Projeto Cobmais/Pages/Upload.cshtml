@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Upload de Arquivo CSV";
+}
+
+<h2>Upload de Arquivo CSV</h2>
+
+<form asp-action="Upload" asp-controller="CalculoDivida" method="post" enctype="multipart/form-data">
+    <div>
+        <label for="csvFile">Selecione o arquivo CSV:</label>
+        <input type="file" id="csvFile" name="csvFile" accept=".csv" />
+    </div>
+    <br />
+    <button type="submit">Enviar</button>
+</form>
+
+@if (ViewBag.Message != null)
+{
+    <p style="color: green;">@ViewBag.Message</p>
+}
