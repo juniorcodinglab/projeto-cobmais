@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|c:\\users\\cobmais\\source\\repos\\projeto cobmais\\projeto cobmais\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|solutionrelative:projeto cobmais\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|c:\\users\\cobmais\\source\\repos\\projeto cobmais\\projeto cobmais\\controllers\\calculodividacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|solutionrelative:projeto cobmais\\controllers\\calculodividacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|c:\\users\\cobmais\\source\\repos\\projeto cobmais\\projeto cobmais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|solutionrelative:projeto cobmais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|c:\\users\\cobmais\\source\\repos\\projeto cobmais\\projeto cobmais\\controllers\\arquivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|solutionrelative:projeto cobmais\\controllers\\arquivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|c:\\users\\cobmais\\source\\repos\\projeto cobmais\\projeto cobmais\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|solutionrelative:projeto cobmais\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|c:\\users\\cobmais\\source\\repos\\projeto cobmais\\projeto cobmais\\pages\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,12 +23,12 @@
       "RelativeMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|solutionrelative:projeto cobmais\\models\\projetocalculodivida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|c:\\users\\cobmais\\source\\repos\\projeto cobmais\\projeto cobmais\\controllers\\calculodividacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|solutionrelative:projeto cobmais\\controllers\\calculodividacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|c:\\users\\cobmais\\source\\repos\\projeto cobmais\\projeto cobmais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|solutionrelative:projeto cobmais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|c:\\users\\cobmais\\source\\repos\\projeto cobmais\\projeto cobmais\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|solutionrelative:projeto cobmais\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|c:\\users\\cobmais\\source\\repos\\projeto cobmais\\projeto cobmais\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB579488-76CB-4B0E-896C-409D8FD84CB9}|Projeto Cobmais\\Projeto Cobmais.csproj|solutionrelative:projeto cobmais\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Projeto Cobmais\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Projeto Cobmais\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T14:48:26.737Z",
+              "DocumentIndex": 1,
+              "Title": "ArquivoController.cs",
+              "DocumentMoniker": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Controllers\\ArquivoController.cs",
+              "RelativeDocumentMoniker": "Projeto Cobmais\\Controllers\\ArquivoController.cs",
+              "ToolTip": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Controllers\\ArquivoController.cs",
+              "RelativeToolTip": "Projeto Cobmais\\Controllers\\ArquivoController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T17:52:59.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Upload.cshtml",
-              "DocumentMoniker": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Pages\\Upload.cshtml",
-              "RelativeDocumentMoniker": "Projeto Cobmais\\Pages\\Upload.cshtml",
-              "ToolTip": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Pages\\Upload.cshtml",
-              "RelativeToolTip": "Projeto Cobmais\\Pages\\Upload.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T13:11:27.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CalculoDividaController.cs",
-              "DocumentMoniker": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Controllers\\CalculoDividaController.cs",
-              "RelativeDocumentMoniker": "Projeto Cobmais\\Controllers\\CalculoDividaController.cs",
-              "ToolTip": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Controllers\\CalculoDividaController.cs",
-              "RelativeToolTip": "Projeto Cobmais\\Controllers\\CalculoDividaController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAwwBQAAAAIAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Projeto Cobmais\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Projeto Cobmais\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T12:49:53.092Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProjetoCalculoDivida.cs",
-              "DocumentMoniker": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Models\\ProjetoCalculoDivida.cs",
-              "RelativeDocumentMoniker": "Projeto Cobmais\\Models\\ProjetoCalculoDivida.cs",
-              "ToolTip": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Models\\ProjetoCalculoDivida.cs",
-              "RelativeToolTip": "Projeto Cobmais\\Models\\ProjetoCalculoDivida.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T12:37:50.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Program.cs",
-              "RelativeDocumentMoniker": "Projeto Cobmais\\Program.cs",
-              "ToolTip": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Program.cs",
-              "RelativeToolTip": "Projeto Cobmais\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T12:33:56.532Z",
+              "WhenOpened": "2024-11-27T17:51:46.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\appsettings.json",
-              "RelativeDocumentMoniker": "Projeto Cobmais\\appsettings.json",
-              "ToolTip": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\appsettings.json",
-              "RelativeToolTip": "Projeto Cobmais\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-27T12:32:51.104Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Program.cs",
+              "RelativeDocumentMoniker": "Projeto Cobmais\\Program.cs",
+              "ToolTip": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Program.cs",
+              "RelativeToolTip": "Projeto Cobmais\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:35:10.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjetoCalculoDivida.cs",
+              "DocumentMoniker": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Models\\ProjetoCalculoDivida.cs",
+              "RelativeDocumentMoniker": "Projeto Cobmais\\Models\\ProjetoCalculoDivida.cs",
+              "ToolTip": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Models\\ProjetoCalculoDivida.cs",
+              "RelativeToolTip": "Projeto Cobmais\\Models\\ProjetoCalculoDivida.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:31:47.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculoDividaController.cs",
+              "DocumentMoniker": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Controllers\\CalculoDividaController.cs",
+              "RelativeDocumentMoniker": "Projeto Cobmais\\Controllers\\CalculoDividaController.cs",
+              "ToolTip": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Controllers\\CalculoDividaController.cs",
+              "RelativeToolTip": "Projeto Cobmais\\Controllers\\CalculoDividaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T16:23:27.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Pages\\Upload.cshtml",
+              "RelativeDocumentMoniker": "Projeto Cobmais\\Pages\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Pages\\Upload.cshtml",
+              "RelativeToolTip": "Projeto Cobmais\\Pages\\Upload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T16:23:14.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projeto Cobmais\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cobmais\\source\\repos\\Projeto Cobmais\\Projeto Cobmais\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Projeto Cobmais\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T14:48:26.737Z",
               "EditorCaption": ""
             }
           ]

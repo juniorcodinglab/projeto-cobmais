@@ -21,5 +21,11 @@
 
         // DbSet representa a tabela no banco de dados
         public DbSet<ProjetoCalculoDivida> CalculoDividas { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<ProjetoCalculoDivida>()
+                .HasKey(e => e.Cpf); // Define explicitamente a chave primária
+        }
     }
 }
